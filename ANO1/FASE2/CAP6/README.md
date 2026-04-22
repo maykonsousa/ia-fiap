@@ -216,7 +216,12 @@ Mapeamento direto dos conteúdos exigidos pelos capítulos 3 a 6 da disciplina p
 
 ## 7. Integrantes do grupo
 
-- _(preencher com os nomes e RMs do grupo)_
+| Nome | RM |
+|---|---|
+| Heleno Madeira | RM570302 |
+| Matheus de França Fantini | RM574078 |
+| Samantha Silva Farias | RM574120 |
+| Maykon Eduardo Pereira de Sousa | RM574011 |
 
 ---
 
