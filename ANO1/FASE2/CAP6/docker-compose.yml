@@ -1,0 +1,15 @@
+services:
+  oracle:
+    image: container-registry.oracle.com/database/free:latest
+    container_name: oracle-db
+    ports:
+      - "1521:1521"
+    environment:
+      ORACLE_PWD: FiapPass123
+    volumes:
+      - oracle-data:/opt/oracle/oradata
+      - ./setup_db.sql:/opt/oracle/scripts/setup/01_setup_db.sql:ro
+    restart: unless-stopped
+
+volumes:
+  oracle-data:

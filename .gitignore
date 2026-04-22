@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Credenciais / ambiente
+.env
+.env.local
+
+# Saidas geradas pela aplicacao (cap 6)
+producao.json
+relatorio.txt
