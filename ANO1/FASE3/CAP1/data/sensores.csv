@@ -1,0 +1,101 @@
+farm_id,producao_id,farm,crop_type,region,humidity_pct,soil_moisture,ldr_raw,soil_pH,temperature,nitrogen_ok,phosphorus_ok,potassium_ok,fertilizer_status,irrigation_status,recorded_at
+FARM0001,1,Usina 001,Cana-de-acucar,Norte SP,50.65,50.65,2383,6.16,34.84,N,S,N,Deficitario,Ativa,2026-04-18T11:14:00
+FARM0002,2,Cooperativa 002,Cana-de-acucar,Ribeirao Preto SP,75.28,75.28,1052,5.47,30.87,S,S,S,Completo,Desligada,2026-05-09T08:35:00
+FARM0003,3,Sitio 003,Cana-de-acucar,Centro-Oeste SP,79.26,79.26,1706,5.81,24.47,N,S,S,Deficitario,Ativa,2026-04-22T12:09:00
+FARM0004,4,Fazenda 004,Cana-de-acucar,Sul de MG,69.45,69.45,2683,6.32,35.14,S,S,N,Deficitario,Ativa,2026-05-05T09:59:00
+FARM0005,5,Usina 005,Cana-de-acucar,Oeste SP,85.74,85.74,2007,5.96,28.03,S,S,S,Completo,Desligada,2026-04-15T12:05:00
+FARM0006,6,Cooperativa 006,Cana-de-acucar,Norte SP,73.42,73.42,1152,5.52,30.81,N,S,S,Deficitario,Ativa,2026-05-15T18:41:00
+FARM0007,7,Sitio 007,Cana-de-acucar,Ribeirao Preto SP,81.21,81.21,421,5.14,28.56,N,S,S,Deficitario,Ativa,2026-05-24T08:14:00
+FARM0008,8,Fazenda 008,Cana-de-acucar,Centro-Oeste SP,62.17,62.17,1160,5.52,27.6,S,S,S,Completo,Desligada,2026-05-02T14:56:00
+FARM0009,9,Usina 009,Cana-de-acucar,Sul de MG,42.67,42.67,3245,6.61,31.78,N,N,S,Deficitario,Ativa,2026-04-26T13:14:00
+FARM0010,10,Cooperativa 010,Cana-de-acucar,Oeste SP,62.74,62.74,3675,6.83,37.46,S,S,N,Deficitario,Ativa,2026-04-25T14:38:00
+FARM0011,11,Sitio 011,Cana-de-acucar,Norte SP,58.08,58.08,3737,6.86,37.45,S,S,S,Completo,Ativa,2026-04-22T09:18:00
+FARM0012,12,Fazenda 012,Cana-de-acucar,Ribeirao Preto SP,50.71,50.71,2359,6.15,35.14,S,S,S,Completo,Ativa,2026-04-20T18:32:00
+FARM0013,13,Usina 013,Cana-de-acucar,Centro-Oeste SP,76.26,76.26,1136,5.51,26.54,S,S,N,Deficitario,Ativa,2026-04-08T13:56:00
+FARM0014,14,Cooperativa 014,Cana-de-acucar,Sul de MG,67.22,67.22,826,5.35,36.89,S,S,S,Completo,Desligada,2026-05-19T16:49:00
+FARM0015,15,Sitio 015,Cana-de-acucar,Oeste SP,89.3,89.3,1944,5.93,31.63,S,S,N,Deficitario,Ativa,2026-05-19T11:45:00
+FARM0016,16,Fazenda 016,Cana-de-acucar,Norte SP,45.43,45.43,391,5.13,34.64,N,S,S,Deficitario,Ativa,2026-05-08T16:14:00
+FARM0017,17,Usina 017,Cana-de-acucar,Ribeirao Preto SP,50.72,50.72,2488,6.21,37.56,S,N,S,Deficitario,Ativa,2026-04-18T18:31:00
+FARM0018,18,Cooperativa 018,Cana-de-acucar,Centro-Oeste SP,60.12,60.12,371,5.11,36.09,S,S,N,Deficitario,Ativa,2026-04-07T18:27:00
+FARM0019,19,Sitio 019,Cana-de-acucar,Sul de MG,62.15,62.15,901,5.39,25.86,S,N,S,Deficitario,Ativa,2026-05-22T09:15:00
+FARM0020,20,Fazenda 020,Cana-de-acucar,Oeste SP,82.9,82.9,532,5.2,34.56,S,S,N,Deficitario,Ativa,2026-05-25T16:06:00
+FARM0021,21,Usina 021,Cana-de-acucar,Norte SP,56.63,56.63,1236,5.56,37.96,S,S,S,Completo,Ativa,2026-05-26T14:57:00
+FARM0022,22,Cooperativa 022,Cana-de-acucar,Ribeirao Preto SP,66.4,66.4,384,5.12,34.15,N,S,S,Deficitario,Ativa,2026-04-19T11:03:00
+FARM0023,23,Sitio 023,Cana-de-acucar,Centro-Oeste SP,73.22,73.22,1113,5.5,32.79,S,S,S,Completo,Desligada,2026-05-03T09:54:00
+FARM0024,24,Fazenda 024,Cana-de-acucar,Sul de MG,58.9,58.9,2893,6.42,27.71,S,N,S,Deficitario,Ativa,2026-04-27T18:37:00
+FARM0025,25,Usina 025,Cana-de-acucar,Oeste SP,85.29,85.29,450,5.16,36.68,S,S,N,Deficitario,Ativa,2026-05-30T09:00:00
+FARM0026,26,Cooperativa 026,Cana-de-acucar,Norte SP,56.58,56.58,1389,5.64,31.78,S,S,S,Completo,Ativa,2026-05-27T11:23:00
+FARM0027,27,Sitio 027,Cana-de-acucar,Ribeirao Preto SP,87.41,87.41,622,5.25,24.51,S,S,N,Deficitario,Ativa,2026-05-06T12:59:00
+FARM0028,28,Fazenda 028,Cana-de-acucar,Centro-Oeste SP,77.58,77.58,1178,5.53,30.2,S,S,N,Deficitario,Ativa,2026-05-16T13:13:00
+FARM0029,29,Usina 029,Cana-de-acucar,Sul de MG,66.09,66.09,3186,6.58,27.36,S,S,S,Completo,Desligada,2026-04-03T08:21:00
+FARM0030,30,Cooperativa 030,Cana-de-acucar,Oeste SP,62.78,62.78,1910,5.91,31.6,N,S,S,Deficitario,Ativa,2026-05-27T10:34:00
+FARM0031,31,Sitio 031,Cana-de-acucar,Norte SP,59.87,59.87,3732,6.86,31.84,S,S,N,Deficitario,Ativa,2026-04-14T18:15:00
+FARM0032,32,Fazenda 032,Cana-de-acucar,Ribeirao Preto SP,51.95,51.95,3354,6.66,37.35,S,S,S,Completo,Ativa,2026-05-22T10:56:00
+FARM0033,33,Usina 033,Cana-de-acucar,Centro-Oeste SP,84.79,84.79,3494,6.74,25.87,S,S,S,Completo,Desligada,2026-05-21T09:24:00
+FARM0034,34,Cooperativa 034,Cana-de-acucar,Sul de MG,85.17,85.17,1293,5.59,36.28,S,S,S,Completo,Desligada,2026-05-13T11:25:00
+FARM0035,35,Sitio 035,Cana-de-acucar,Oeste SP,81.26,81.26,2593,6.27,23.47,S,S,S,Completo,Desligada,2026-04-08T12:11:00
+FARM0036,36,Fazenda 036,Cana-de-acucar,Norte SP,65.03,65.03,3453,6.72,31.03,S,S,S,Completo,Desligada,2026-05-07T11:16:00
+FARM0037,37,Usina 037,Cana-de-acucar,Ribeirao Preto SP,59.47,59.47,3098,6.53,35.9,S,S,S,Completo,Ativa,2026-04-05T18:58:00
+FARM0038,38,Cooperativa 038,Cana-de-acucar,Centro-Oeste SP,70.33,70.33,3214,6.59,28.79,S,S,S,Completo,Desligada,2026-04-19T16:08:00
+FARM0039,39,Sitio 039,Cana-de-acucar,Sul de MG,75.31,75.31,1961,5.94,29.74,S,S,S,Completo,Desligada,2026-04-14T14:50:00
+FARM0040,40,Fazenda 040,Cana-de-acucar,Oeste SP,59.66,59.66,3226,6.6,35.47,N,S,S,Deficitario,Ativa,2026-04-19T16:42:00
+FARM0041,41,Usina 041,Cana-de-acucar,Norte SP,49.29,49.29,2729,6.34,30.34,S,S,S,Completo,Ativa,2026-04-16T15:39:00
+FARM0042,42,Cooperativa 042,Cana-de-acucar,Ribeirao Preto SP,76.26,76.26,1891,5.9,24.68,N,S,S,Deficitario,Ativa,2026-05-12T08:57:00
+FARM0043,43,Sitio 043,Cana-de-acucar,Centro-Oeste SP,63.56,63.56,2439,6.19,31.26,S,S,S,Completo,Desligada,2026-04-16T09:29:00
+FARM0044,44,Fazenda 044,Cana-de-acucar,Sul de MG,76.4,76.4,3229,6.6,29.48,N,S,S,Deficitario,Ativa,2026-05-06T15:57:00
+FARM0045,45,Usina 045,Cana-de-acucar,Oeste SP,48.97,48.97,3807,6.9,29.25,S,N,N,Deficitario,Ativa,2026-04-18T15:04:00
+FARM0046,46,Cooperativa 046,Cana-de-acucar,Norte SP,65.55,65.55,3561,6.77,24.59,S,S,S,Completo,Desligada,2026-04-05T14:26:00
+FARM0047,47,Sitio 047,Cana-de-acucar,Ribeirao Preto SP,87.08,87.08,1747,5.83,26.83,S,S,S,Completo,Desligada,2026-05-19T17:24:00
+FARM0048,48,Fazenda 048,Cana-de-acucar,Centro-Oeste SP,60.16,60.16,1806,5.86,33.5,S,S,S,Completo,Desligada,2026-04-18T14:31:00
+FARM0049,49,Usina 049,Cana-de-acucar,Sul de MG,73.15,73.15,2041,5.98,25.24,N,S,S,Deficitario,Ativa,2026-05-08T17:42:00
+FARM0050,50,Cooperativa 050,Cana-de-acucar,Oeste SP,78.54,78.54,485,5.17,26.6,S,S,N,Deficitario,Ativa,2026-05-19T14:17:00
+FARM0051,51,Sitio 051,Cana-de-acucar,Norte SP,84.66,84.66,233,5.04,25.56,S,N,S,Deficitario,Ativa,2026-04-05T18:02:00
+FARM0052,52,Fazenda 052,Cana-de-acucar,Ribeirao Preto SP,61.47,61.47,3213,6.59,32.41,S,S,N,Deficitario,Ativa,2026-04-14T15:44:00
+FARM0053,53,Usina 053,Cana-de-acucar,Centro-Oeste SP,85.86,85.86,3078,6.52,28.26,N,S,S,Deficitario,Ativa,2026-04-02T12:36:00
+FARM0054,54,Cooperativa 054,Cana-de-acucar,Sul de MG,82.78,82.78,2468,6.2,34.01,S,S,S,Completo,Desligada,2026-05-20T12:54:00
+FARM0055,55,Sitio 055,Cana-de-acucar,Oeste SP,79.88,79.88,1633,5.77,24.48,S,S,S,Completo,Desligada,2026-05-12T13:00:00
+FARM0056,56,Fazenda 056,Cana-de-acucar,Norte SP,83.61,83.61,2054,5.99,33.66,S,S,S,Completo,Desligada,2026-05-04T18:17:00
+FARM0057,57,Usina 057,Cana-de-acucar,Ribeirao Preto SP,78.31,78.31,2886,6.42,31.06,S,N,S,Deficitario,Ativa,2026-04-06T12:56:00
+FARM0058,58,Cooperativa 058,Cana-de-acucar,Centro-Oeste SP,72.12,72.12,2426,6.18,35.72,N,S,N,Deficitario,Ativa,2026-04-23T12:21:00
+FARM0059,59,Sitio 059,Cana-de-acucar,Sul de MG,71.89,71.89,220,5.04,29.68,N,N,S,Deficitario,Ativa,2026-05-19T11:44:00
+FARM0060,60,Fazenda 060,Cana-de-acucar,Oeste SP,57.5,57.5,1504,5.7,34.57,S,S,S,Completo,Ativa,2026-04-24T15:35:00
+FARM0061,61,Usina 061,Cana-de-acucar,Norte SP,89.42,89.42,934,5.41,32.19,N,S,S,Deficitario,Ativa,2026-04-13T13:07:00
+FARM0062,62,Cooperativa 062,Cana-de-acucar,Ribeirao Preto SP,43.99,43.99,2337,6.14,25.0,N,N,N,Deficitario,Ativa,2026-05-24T11:18:00
+FARM0063,63,Sitio 063,Cana-de-acucar,Centro-Oeste SP,42.42,42.42,1314,5.6,25.05,S,S,N,Deficitario,Ativa,2026-04-09T18:55:00
+FARM0064,64,Fazenda 064,Cana-de-acucar,Sul de MG,63.76,63.76,2728,6.34,24.85,S,N,S,Deficitario,Ativa,2026-05-26T15:07:00
+FARM0065,65,Usina 065,Cana-de-acucar,Oeste SP,69.83,69.83,1074,5.48,34.58,S,S,S,Completo,Desligada,2026-04-16T09:35:00
+FARM0066,66,Cooperativa 066,Cana-de-acucar,Norte SP,64.61,64.61,3274,6.62,34.13,N,N,S,Deficitario,Ativa,2026-04-28T12:36:00
+FARM0067,67,Sitio 067,Cana-de-acucar,Ribeirao Preto SP,66.08,66.08,1342,5.62,32.01,N,S,S,Deficitario,Ativa,2026-05-06T09:10:00
+FARM0068,68,Fazenda 068,Cana-de-acucar,Centro-Oeste SP,69.17,69.17,960,5.42,34.8,S,S,S,Completo,Desligada,2026-04-15T12:50:00
+FARM0069,69,Usina 069,Cana-de-acucar,Sul de MG,64.17,64.17,3923,6.96,35.33,S,N,S,Deficitario,Ativa,2026-04-05T08:10:00
+FARM0070,70,Cooperativa 070,Cana-de-acucar,Oeste SP,63.51,63.51,3158,6.56,36.28,S,S,N,Deficitario,Ativa,2026-05-03T16:31:00
+FARM0071,71,Sitio 071,Cana-de-acucar,Norte SP,78.12,78.12,2818,6.39,29.68,S,S,S,Completo,Desligada,2026-05-14T12:36:00
+FARM0072,72,Fazenda 072,Cana-de-acucar,Ribeirao Preto SP,53.47,53.47,3663,6.82,33.71,N,S,S,Deficitario,Ativa,2026-05-02T09:30:00
+FARM0073,73,Usina 073,Cana-de-acucar,Centro-Oeste SP,48.5,48.5,3314,6.64,26.2,S,S,S,Completo,Ativa,2026-05-06T08:29:00
+FARM0074,74,Cooperativa 074,Cana-de-acucar,Sul de MG,62.6,62.6,361,5.11,30.06,N,S,S,Deficitario,Ativa,2026-04-13T16:23:00
+FARM0075,75,Sitio 075,Cana-de-acucar,Oeste SP,64.43,64.43,798,5.34,27.13,S,N,S,Deficitario,Ativa,2026-05-02T09:01:00
+FARM0076,76,Fazenda 076,Cana-de-acucar,Norte SP,73.15,73.15,3970,6.98,25.5,S,S,S,Completo,Desligada,2026-05-29T09:29:00
+FARM0077,77,Usina 077,Cana-de-acucar,Ribeirao Preto SP,44.51,44.51,3206,6.59,33.17,S,S,S,Completo,Ativa,2026-04-16T15:35:00
+FARM0078,78,Cooperativa 078,Cana-de-acucar,Centro-Oeste SP,53.19,53.19,2554,6.25,28.52,S,S,S,Completo,Ativa,2026-05-21T16:17:00
+FARM0079,79,Sitio 079,Cana-de-acucar,Sul de MG,56.15,56.15,3711,6.85,37.25,N,S,S,Deficitario,Ativa,2026-04-23T13:35:00
+FARM0080,80,Fazenda 080,Cana-de-acucar,Oeste SP,76.16,76.16,1731,5.82,34.55,S,S,S,Completo,Desligada,2026-04-27T08:20:00
+FARM0081,81,Usina 081,Cana-de-acucar,Norte SP,59.95,59.95,3611,6.8,25.41,S,S,S,Completo,Ativa,2026-04-03T10:32:00
+FARM0082,82,Cooperativa 082,Cana-de-acucar,Ribeirao Preto SP,89.49,89.49,2987,6.47,27.27,S,N,S,Deficitario,Ativa,2026-05-12T10:04:00
+FARM0083,83,Sitio 083,Cana-de-acucar,Centro-Oeste SP,64.32,64.32,2953,6.46,27.07,S,S,S,Completo,Desligada,2026-05-11T15:55:00
+FARM0084,84,Fazenda 084,Cana-de-acucar,Sul de MG,56.16,56.16,3850,6.92,33.91,N,S,N,Deficitario,Ativa,2026-05-19T18:45:00
+FARM0085,85,Usina 085,Cana-de-acucar,Oeste SP,71.3,71.3,867,5.37,25.96,N,S,S,Deficitario,Ativa,2026-04-10T11:33:00
+FARM0086,86,Cooperativa 086,Cana-de-acucar,Norte SP,56.35,56.35,188,5.02,27.76,S,S,S,Completo,Ativa,2026-05-08T10:14:00
+FARM0087,87,Sitio 087,Cana-de-acucar,Ribeirao Preto SP,90.0,90.0,2021,5.97,32.16,S,N,S,Deficitario,Ativa,2026-05-31T13:37:00
+FARM0088,88,Fazenda 088,Cana-de-acucar,Centro-Oeste SP,87.46,87.46,3549,6.77,26.76,S,S,S,Completo,Desligada,2026-04-25T17:22:00
+FARM0089,89,Usina 089,Cana-de-acucar,Sul de MG,56.74,56.74,2636,6.29,35.35,S,N,N,Deficitario,Ativa,2026-05-18T15:53:00
+FARM0090,90,Cooperativa 090,Cana-de-acucar,Oeste SP,66.73,66.73,2797,6.38,36.31,N,S,N,Deficitario,Ativa,2026-05-17T18:43:00
+FARM0091,91,Sitio 091,Cana-de-acucar,Norte SP,45.54,45.54,2359,6.15,26.57,S,S,S,Completo,Ativa,2026-04-06T12:20:00
+FARM0092,92,Fazenda 092,Cana-de-acucar,Ribeirao Preto SP,76.81,76.81,2068,6.0,34.42,S,N,S,Deficitario,Ativa,2026-04-17T15:51:00
+FARM0093,93,Usina 093,Cana-de-acucar,Centro-Oeste SP,53.98,53.98,656,5.26,28.0,S,S,S,Completo,Ativa,2026-05-22T16:23:00
+FARM0094,94,Cooperativa 094,Cana-de-acucar,Sul de MG,58.52,58.52,2449,6.19,32.75,S,S,S,Completo,Ativa,2026-05-31T13:06:00
+FARM0095,95,Sitio 095,Cana-de-acucar,Oeste SP,38.32,38.32,2167,6.05,25.6,N,N,S,Deficitario,Ativa,2026-04-20T18:26:00
+FARM0096,96,Fazenda 096,Cana-de-acucar,Norte SP,72.81,72.81,2832,6.39,35.76,N,S,S,Deficitario,Ativa,2026-05-13T16:26:00
+FARM0097,97,Usina 097,Cana-de-acucar,Ribeirao Preto SP,53.17,53.17,2958,6.46,29.42,S,S,S,Completo,Ativa,2026-04-24T11:28:00
+FARM0098,98,Cooperativa 098,Cana-de-acucar,Centro-Oeste SP,49.16,49.16,2769,6.36,27.51,S,N,S,Deficitario,Ativa,2026-04-13T09:54:00
+FARM0099,99,Sitio 099,Cana-de-acucar,Sul de MG,78.56,78.56,1034,5.46,25.97,S,N,S,Deficitario,Ativa,2026-05-21T17:13:00
+FARM0100,100,Fazenda 100,Cana-de-acucar,Oeste SP,53.29,53.29,255,5.05,33.59,N,S,S,Deficitario,Ativa,2026-04-10T10:34:00

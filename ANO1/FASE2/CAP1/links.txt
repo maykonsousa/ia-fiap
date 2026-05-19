@@ -1,0 +1,9 @@
+Repositorio original (grupo):
+https://github.com/lenomadeira/farmtech-fase2-irrigacao-inteligente
+
+Video demonstrativo:
+https://youtu.be/sTN44EC1dzY
+
+Relacao com outros capitulos:
+- CAP6 (mesma Fase 2): sistema CLI producao e perdas - ../CAP6/
+- Fase 3 Cap 1: importacao Oracle sensores - ../../FASE3/CAP1/
