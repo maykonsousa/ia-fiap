@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "farm": "Usina 001",
+        "tons": 8767.52,
+        "loss_pct": 2.63,
+        "harvest_type": "manual",
+        "created_at": "2026-04-18T11:14:00"
+    },
+    {
+        "id": 2,
+        "farm": "Cooperativa 002",
+        "tons": 10368.62,
+        "loss_pct": 3.66,
+        "harvest_type": "manual",
+        "created_at": "2026-05-09T08:35:00"
+    },
+    {
+        "id": 3,
+        "farm": "Sitio 003",
+        "tons": 10813.47,
+        "loss_pct": 5.99,
+        "harvest_type": "manual",
+        "created_at": "2026-04-22T12:09:00"
+    },
+    {
+        "id": 4,
+        "farm": "Fazenda 004",
+        "tons": 15220.43,
+        "loss_pct": 6.15,
+        "harvest_type": "manual",
+        "created_at": "2026-05-05T09:59:00"
+    },
+    {
+        "id": 5,
+        "farm": "Usina 005",
+        "tons": 28093.58,
+        "loss_pct": 2.73,
+        "harvest_type": "manual",
+        "created_at": "2026-04-15T12:05:00"
+    },
+    {
+        "id": 6,
+        "farm": "Cooperativa 006",
+        "tons": 6927.87,
+        "loss_pct": 5.85,
+        "harvest_type": "manual",
+        "created_at": "2026-05-15T18:41:00"
+    },
+    {
+        "id": 7,
+        "farm": "Sitio 007",
+        "tons": 27188.67,
+        "loss_pct": 5.92,
+        "harvest_type": "manual",
+        "created_at": "2026-05-24T08:14:00"
+    },
+    {
+        "id": 8,
+        "farm": "Fazenda 008",
+        "tons": 29692.78,
+        "loss_pct": 11.76,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-02T14:56:00"
+    },
+    {
+        "id": 9,
+        "farm": "Usina 009",
+        "tons": 31927.8,
+        "loss_pct": 20.67,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-26T13:14:00"
+    },
+    {
+        "id": 10,
+        "farm": "Cooperativa 010",
+        "tons": 31895.28,
+        "loss_pct": 16.75,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-25T14:38:00"
+    },
+    {
+        "id": 11,
+        "farm": "Sitio 011",
+        "tons": 16738.66,
+        "loss_pct": 18.99,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-22T09:18:00"
+    },
+    {
+        "id": 12,
+        "farm": "Fazenda 012",
+        "tons": 21442.2,
+        "loss_pct": 6.85,
+        "harvest_type": "manual",
+        "created_at": "2026-04-20T18:32:00"
+    },
+    {
+        "id": 13,
+        "farm": "Usina 013",
+        "tons": 31603.68,
+        "loss_pct": 15.35,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-08T13:56:00"
+    },
+    {
+        "id": 14,
+        "farm": "Cooperativa 014",
+        "tons": 8395.53,
+        "loss_pct": 19.61,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-19T16:49:00"
+    },
+    {
+        "id": 15,
+        "farm": "Sitio 015",
+        "tons": 13416.34,
+        "loss_pct": 7.14,
+        "harvest_type": "manual",
+        "created_at": "2026-05-19T11:45:00"
+    },
+    {
+        "id": 16,
+        "farm": "Fazenda 016",
+        "tons": 20887.88,
+        "loss_pct": 4.19,
+        "harvest_type": "manual",
+        "created_at": "2026-05-08T16:14:00"
+    },
+    {
+        "id": 17,
+        "farm": "Usina 017",
+        "tons": 10784.39,
+        "loss_pct": 5.07,
+        "harvest_type": "manual",
+        "created_at": "2026-04-18T18:31:00"
+    },
+    {
+        "id": 18,
+        "farm": "Cooperativa 018",
+        "tons": 14566.03,
+        "loss_pct": 11.48,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-07T18:27:00"
+    },
+    {
+        "id": 19,
+        "farm": "Sitio 019",
+        "tons": 10172.93,
+        "loss_pct": 18.47,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-22T09:15:00"
+    },
+    {
+        "id": 20,
+        "farm": "Fazenda 020",
+        "tons": 6365.88,
+        "loss_pct": 19.5,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-25T16:06:00"
+    },
+    {
+        "id": 21,
+        "farm": "Usina 021",
+        "tons": 6583.16,
+        "loss_pct": 15.26,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-26T14:57:00"
+    },
+    {
+        "id": 22,
+        "farm": "Cooperativa 022",
+        "tons": 20637.87,
+        "loss_pct": 11.01,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-19T11:03:00"
+    },
+    {
+        "id": 23,
+        "farm": "Sitio 023",
+        "tons": 10017.27,
+        "loss_pct": 2.78,
+        "harvest_type": "manual",
+        "created_at": "2026-05-03T09:54:00"
+    },
+    {
+        "id": 24,
+        "farm": "Fazenda 024",
+        "tons": 20261.13,
+        "loss_pct": 5.6,
+        "harvest_type": "manual",
+        "created_at": "2026-04-27T18:37:00"
+    },
+    {
+        "id": 25,
+        "farm": "Usina 025",
+        "tons": 17373.71,
+        "loss_pct": 14.94,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-30T09:00:00"
+    },
+    {
+        "id": 26,
+        "farm": "Cooperativa 026",
+        "tons": 12694.66,
+        "loss_pct": 20.45,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-27T11:23:00"
+    },
+    {
+        "id": 27,
+        "farm": "Sitio 027",
+        "tons": 22911.5,
+        "loss_pct": 5.84,
+        "harvest_type": "manual",
+        "created_at": "2026-05-06T12:59:00"
+    },
+    {
+        "id": 28,
+        "farm": "Fazenda 028",
+        "tons": 23562.42,
+        "loss_pct": 16.86,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-16T13:13:00"
+    },
+    {
+        "id": 29,
+        "farm": "Usina 029",
+        "tons": 25820.22,
+        "loss_pct": 19.78,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-03T08:21:00"
+    },
+    {
+        "id": 30,
+        "farm": "Cooperativa 030",
+        "tons": 5972.76,
+        "loss_pct": 2.88,
+        "harvest_type": "manual",
+        "created_at": "2026-05-27T10:34:00"
+    },
+    {
+        "id": 31,
+        "farm": "Sitio 031",
+        "tons": 23007.2,
+        "loss_pct": 6.99,
+        "harvest_type": "manual",
+        "created_at": "2026-04-14T18:15:00"
+    },
+    {
+        "id": 32,
+        "farm": "Fazenda 032",
+        "tons": 16131.95,
+        "loss_pct": 6.82,
+        "harvest_type": "manual",
+        "created_at": "2026-05-22T10:56:00"
+    },
+    {
+        "id": 33,
+        "farm": "Usina 033",
+        "tons": 28548.5,
+        "loss_pct": 3.83,
+        "harvest_type": "manual",
+        "created_at": "2026-05-21T09:24:00"
+    },
+    {
+        "id": 34,
+        "farm": "Cooperativa 034",
+        "tons": 13863.07,
+        "loss_pct": 3.61,
+        "harvest_type": "manual",
+        "created_at": "2026-05-13T11:25:00"
+    },
+    {
+        "id": 35,
+        "farm": "Sitio 035",
+        "tons": 20675.92,
+        "loss_pct": 21.21,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-08T12:11:00"
+    },
+    {
+        "id": 36,
+        "farm": "Fazenda 036",
+        "tons": 6198.44,
+        "loss_pct": 4.43,
+        "harvest_type": "manual",
+        "created_at": "2026-05-07T11:16:00"
+    },
+    {
+        "id": 37,
+        "farm": "Usina 037",
+        "tons": 13915.4,
+        "loss_pct": 4.32,
+        "harvest_type": "manual",
+        "created_at": "2026-04-05T18:58:00"
+    },
+    {
+        "id": 38,
+        "farm": "Cooperativa 038",
+        "tons": 10179.68,
+        "loss_pct": 14.23,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-19T16:08:00"
+    },
+    {
+        "id": 39,
+        "farm": "Sitio 039",
+        "tons": 20659.59,
+        "loss_pct": 4.02,
+        "harvest_type": "manual",
+        "created_at": "2026-04-14T14:50:00"
+    },
+    {
+        "id": 40,
+        "farm": "Fazenda 040",
+        "tons": 22089.4,
+        "loss_pct": 5.79,
+        "harvest_type": "manual",
+        "created_at": "2026-04-19T16:42:00"
+    },
+    {
+        "id": 41,
+        "farm": "Usina 041",
+        "tons": 27942.92,
+        "loss_pct": 2.62,
+        "harvest_type": "manual",
+        "created_at": "2026-04-16T15:39:00"
+    },
+    {
+        "id": 42,
+        "farm": "Cooperativa 042",
+        "tons": 25276.04,
+        "loss_pct": 12.17,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-12T08:57:00"
+    },
+    {
+        "id": 43,
+        "farm": "Sitio 043",
+        "tons": 8600.16,
+        "loss_pct": 9.65,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-16T09:29:00"
+    },
+    {
+        "id": 44,
+        "farm": "Fazenda 044",
+        "tons": 9297.26,
+        "loss_pct": 19.8,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-06T15:57:00"
+    },
+    {
+        "id": 45,
+        "farm": "Usina 045",
+        "tons": 24265.71,
+        "loss_pct": 17.15,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-18T15:04:00"
+    },
+    {
+        "id": 46,
+        "farm": "Cooperativa 046",
+        "tons": 13933.8,
+        "loss_pct": 6.03,
+        "harvest_type": "manual",
+        "created_at": "2026-04-05T14:26:00"
+    },
+    {
+        "id": 47,
+        "farm": "Sitio 047",
+        "tons": 17878.45,
+        "loss_pct": 6.78,
+        "harvest_type": "manual",
+        "created_at": "2026-05-19T17:24:00"
+    },
+    {
+        "id": 48,
+        "farm": "Fazenda 048",
+        "tons": 5783.67,
+        "loss_pct": 4.94,
+        "harvest_type": "manual",
+        "created_at": "2026-04-18T14:31:00"
+    },
+    {
+        "id": 49,
+        "farm": "Usina 049",
+        "tons": 5731.76,
+        "loss_pct": 7.03,
+        "harvest_type": "manual",
+        "created_at": "2026-05-08T17:42:00"
+    },
+    {
+        "id": 50,
+        "farm": "Cooperativa 050",
+        "tons": 25304.27,
+        "loss_pct": 13.25,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-19T14:17:00"
+    },
+    {
+        "id": 51,
+        "farm": "Sitio 051",
+        "tons": 25364.3,
+        "loss_pct": 11.91,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-05T18:02:00"
+    },
+    {
+        "id": 52,
+        "farm": "Fazenda 052",
+        "tons": 11918.58,
+        "loss_pct": 5.32,
+        "harvest_type": "manual",
+        "created_at": "2026-04-14T15:44:00"
+    },
+    {
+        "id": 53,
+        "farm": "Usina 053",
+        "tons": 23288.38,
+        "loss_pct": 10.41,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-02T12:36:00"
+    },
+    {
+        "id": 54,
+        "farm": "Cooperativa 054",
+        "tons": 23474.99,
+        "loss_pct": 3.01,
+        "harvest_type": "manual",
+        "created_at": "2026-05-20T12:54:00"
+    },
+    {
+        "id": 55,
+        "farm": "Sitio 055",
+        "tons": 27938.54,
+        "loss_pct": 9.9,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-12T13:00:00"
+    },
+    {
+        "id": 56,
+        "farm": "Fazenda 056",
+        "tons": 21629.63,
+        "loss_pct": 11.29,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-04T18:17:00"
+    },
+    {
+        "id": 57,
+        "farm": "Usina 057",
+        "tons": 17171.65,
+        "loss_pct": 6.65,
+        "harvest_type": "manual",
+        "created_at": "2026-04-06T12:56:00"
+    },
+    {
+        "id": 58,
+        "farm": "Cooperativa 058",
+        "tons": 12550.78,
+        "loss_pct": 4.94,
+        "harvest_type": "manual",
+        "created_at": "2026-04-23T12:21:00"
+    },
+    {
+        "id": 59,
+        "farm": "Sitio 059",
+        "tons": 17854.51,
+        "loss_pct": 15.35,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-19T11:44:00"
+    },
+    {
+        "id": 60,
+        "farm": "Fazenda 060",
+        "tons": 19334.89,
+        "loss_pct": 17.63,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-24T15:35:00"
+    },
+    {
+        "id": 61,
+        "farm": "Usina 061",
+        "tons": 25057.79,
+        "loss_pct": 3.1,
+        "harvest_type": "manual",
+        "created_at": "2026-04-13T13:07:00"
+    },
+    {
+        "id": 62,
+        "farm": "Cooperativa 062",
+        "tons": 11142.05,
+        "loss_pct": 21.75,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-24T11:18:00"
+    },
+    {
+        "id": 63,
+        "farm": "Sitio 063",
+        "tons": 25325.39,
+        "loss_pct": 18.07,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-09T18:55:00"
+    },
+    {
+        "id": 64,
+        "farm": "Fazenda 064",
+        "tons": 27197.12,
+        "loss_pct": 3.76,
+        "harvest_type": "manual",
+        "created_at": "2026-05-26T15:07:00"
+    },
+    {
+        "id": 65,
+        "farm": "Usina 065",
+        "tons": 25639.97,
+        "loss_pct": 10.11,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-16T09:35:00"
+    },
+    {
+        "id": 66,
+        "farm": "Cooperativa 066",
+        "tons": 21767.74,
+        "loss_pct": 20.18,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-28T12:36:00"
+    },
+    {
+        "id": 67,
+        "farm": "Sitio 067",
+        "tons": 5072.24,
+        "loss_pct": 3.7,
+        "harvest_type": "manual",
+        "created_at": "2026-05-06T09:10:00"
+    },
+    {
+        "id": 68,
+        "farm": "Fazenda 068",
+        "tons": 26363.69,
+        "loss_pct": 9.93,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-15T12:50:00"
+    },
+    {
+        "id": 69,
+        "farm": "Usina 069",
+        "tons": 26400.97,
+        "loss_pct": 19.75,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-05T08:10:00"
+    },
+    {
+        "id": 70,
+        "farm": "Cooperativa 070",
+        "tons": 16819.49,
+        "loss_pct": 21.25,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-03T16:31:00"
+    },
+    {
+        "id": 71,
+        "farm": "Sitio 071",
+        "tons": 6086.26,
+        "loss_pct": 7.5,
+        "harvest_type": "manual",
+        "created_at": "2026-05-14T12:36:00"
+    },
+    {
+        "id": 72,
+        "farm": "Fazenda 072",
+        "tons": 14394.95,
+        "loss_pct": 17.25,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-02T09:30:00"
+    },
+    {
+        "id": 73,
+        "farm": "Usina 073",
+        "tons": 7377.61,
+        "loss_pct": 19.58,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-06T08:29:00"
+    },
+    {
+        "id": 74,
+        "farm": "Cooperativa 074",
+        "tons": 21811.11,
+        "loss_pct": 14.37,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-13T16:23:00"
+    },
+    {
+        "id": 75,
+        "farm": "Sitio 075",
+        "tons": 31274.96,
+        "loss_pct": 20.45,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-02T09:01:00"
+    },
+    {
+        "id": 76,
+        "farm": "Fazenda 076",
+        "tons": 30570.64,
+        "loss_pct": 7.46,
+        "harvest_type": "manual",
+        "created_at": "2026-05-29T09:29:00"
+    },
+    {
+        "id": 77,
+        "farm": "Usina 077",
+        "tons": 8905.33,
+        "loss_pct": 21.74,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-16T15:35:00"
+    },
+    {
+        "id": 78,
+        "farm": "Cooperativa 078",
+        "tons": 27154.84,
+        "loss_pct": 13.42,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-21T16:17:00"
+    },
+    {
+        "id": 79,
+        "farm": "Sitio 079",
+        "tons": 25597.56,
+        "loss_pct": 16.0,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-23T13:35:00"
+    },
+    {
+        "id": 80,
+        "farm": "Fazenda 080",
+        "tons": 25107.04,
+        "loss_pct": 6.78,
+        "harvest_type": "manual",
+        "created_at": "2026-04-27T08:20:00"
+    },
+    {
+        "id": 81,
+        "farm": "Usina 081",
+        "tons": 31064.55,
+        "loss_pct": 4.98,
+        "harvest_type": "manual",
+        "created_at": "2026-04-03T10:32:00"
+    },
+    {
+        "id": 82,
+        "farm": "Cooperativa 082",
+        "tons": 17676.25,
+        "loss_pct": 4.55,
+        "harvest_type": "manual",
+        "created_at": "2026-05-12T10:04:00"
+    },
+    {
+        "id": 83,
+        "farm": "Sitio 083",
+        "tons": 19607.43,
+        "loss_pct": 21.4,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-11T15:55:00"
+    },
+    {
+        "id": 84,
+        "farm": "Fazenda 084",
+        "tons": 28559.64,
+        "loss_pct": 21.72,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-19T18:45:00"
+    },
+    {
+        "id": 85,
+        "farm": "Usina 085",
+        "tons": 16125.4,
+        "loss_pct": 13.87,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-10T11:33:00"
+    },
+    {
+        "id": 86,
+        "farm": "Cooperativa 086",
+        "tons": 17451.05,
+        "loss_pct": 4.99,
+        "harvest_type": "manual",
+        "created_at": "2026-05-08T10:14:00"
+    },
+    {
+        "id": 87,
+        "farm": "Sitio 087",
+        "tons": 13077.16,
+        "loss_pct": 2.87,
+        "harvest_type": "manual",
+        "created_at": "2026-05-31T13:37:00"
+    },
+    {
+        "id": 88,
+        "farm": "Fazenda 088",
+        "tons": 20519.92,
+        "loss_pct": 10.39,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-25T17:22:00"
+    },
+    {
+        "id": 89,
+        "farm": "Usina 089",
+        "tons": 29412.19,
+        "loss_pct": 7.05,
+        "harvest_type": "manual",
+        "created_at": "2026-05-18T15:53:00"
+    },
+    {
+        "id": 90,
+        "farm": "Cooperativa 090",
+        "tons": 27635.1,
+        "loss_pct": 17.81,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-17T18:43:00"
+    },
+    {
+        "id": 91,
+        "farm": "Sitio 091",
+        "tons": 25181.98,
+        "loss_pct": 18.52,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-06T12:20:00"
+    },
+    {
+        "id": 92,
+        "farm": "Fazenda 092",
+        "tons": 12968.82,
+        "loss_pct": 19.8,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-17T15:51:00"
+    },
+    {
+        "id": 93,
+        "farm": "Usina 093",
+        "tons": 7438.18,
+        "loss_pct": 21.57,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-22T16:23:00"
+    },
+    {
+        "id": 94,
+        "farm": "Cooperativa 094",
+        "tons": 23220.59,
+        "loss_pct": 19.69,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-31T13:06:00"
+    },
+    {
+        "id": 95,
+        "farm": "Sitio 095",
+        "tons": 8150.25,
+        "loss_pct": 20.82,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-20T18:26:00"
+    },
+    {
+        "id": 96,
+        "farm": "Fazenda 096",
+        "tons": 20858.19,
+        "loss_pct": 14.9,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-05-13T16:26:00"
+    },
+    {
+        "id": 97,
+        "farm": "Usina 097",
+        "tons": 17006.79,
+        "loss_pct": 9.43,
+        "harvest_type": "mecanizada",
+        "created_at": "2026-04-24T11:28:00"
+    },
+    {
+        "id": 98,
+        "farm": "Cooperativa 098",
+        "tons": 27253.16,
+        "loss_pct": 4.49,
+        "harvest_type": "manual",
+        "created_at": "2026-04-13T09:54:00"
+    },
+    {
+        "id": 99,
+        "farm": "Sitio 099",
+        "tons": 6852.47,
+        "loss_pct": 7.44,
+        "harvest_type": "manual",
+        "created_at": "2026-05-21T17:13:00"
+    },
+    {
+        "id": 100,
+        "farm": "Fazenda 100",
+        "tons": 11767.66,
+        "loss_pct": 3.89,
+        "harvest_type": "manual",
+        "created_at": "2026-04-10T10:34:00"
+    }
+]
