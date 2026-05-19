@@ -214,7 +214,16 @@ Mapeamento direto dos conteúdos exigidos pelos capítulos 3 a 6 da disciplina p
 
 ---
 
-## 7. Integrantes do grupo
+## 7. Outras entregas do grupo (Fase 2 e 3)
+
+| Atividade | Caminho |
+|-----------|---------|
+| Irrigação inteligente (IoT / sensores ESP32) | [`../CAP1/`](../CAP1/) |
+| Banco Oracle — importação e consultas (Fase 3) | [`../../FASE3/CAP1/`](../../FASE3/CAP1/) |
+
+---
+
+## 8. Integrantes do grupo
 
 | Nome | RM |
 |---|---|
@@ -225,7 +234,7 @@ Mapeamento direto dos conteúdos exigidos pelos capítulos 3 a 6 da disciplina p
 
 ---
 
-## 8. Referências
+## 9. Referências
 
 - SOCICANA — perdas de até 15% na colheita mecanizada da cana-de-açúcar.
 - CONAB — preços de referência de produtos agrícolas.
