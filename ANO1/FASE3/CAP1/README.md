@@ -415,9 +415,8 @@ Detalhes adicionais e alternativa em Dash (`dashboard/dash_app.py`): [`dashboard
 
 ## 13. Vídeo demonstrativo
 
-Vídeo único (≤ 5 min) cobrindo o fluxo Oracle (entrega obrigatória) e os dashboards (Ir Além), gravado conforme [`ROTEIRO-VIDEO-UNICO.md`](ROTEIRO-VIDEO-UNICO.md). Publicado como **não listado** no YouTube:
-
-**Link:** `<COLAR LINK APÓS GRAVAR>`
+**Link:**
+[https://youtu.be/7g1A1G6l7AA](https://youtu.be/7g1A1G6l7AA)
 
 ## 14. Estrutura do repositório
 
