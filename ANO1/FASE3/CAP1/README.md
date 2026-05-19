@@ -20,7 +20,8 @@ Importação e exploração no Oracle institucional da FIAP dos dados de sensore
 | Samantha Silva Farias           | RM574120 |
 | Maykon Eduardo Pereira de Sousa | RM574011 |
 
-**Vídeo demonstrativo (≤ 5 min, YouTube não listado):** `<COLAR LINK APÓS GRAVAR>`
+**Vídeo demonstrativo (≤ 5 min, YouTube não listado):**
+[https://youtu.be/TphD00Zf9NA](https://youtu.be/TphD00Zf9NA)
 
 ---
 
