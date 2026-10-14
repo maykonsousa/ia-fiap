@@ -19,7 +19,7 @@ Sistema de visão computacional da **FarmTech Solutions** que detecta **vacas** 
 **Notebook (solução completa):** [`MaykonSousa_rm574011_pbl_fase6.ipynb`](MaykonSousa_rm574011_pbl_fase6.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maykonsousa/ia-fiap/blob/main/ANO1/FASE6/CAP1/MaykonSousa_rm574011_pbl_fase6.ipynb)
 
-**Vídeo demonstrativo (≤ 5 min, YouTube não listado):** _link a ser adicionado_
+**Vídeo demonstrativo (≤ 5 min, YouTube não listado):** [https://youtu.be/FsosufsT5lo](https://youtu.be/FsosufsT5lo)
 
 ---
 
